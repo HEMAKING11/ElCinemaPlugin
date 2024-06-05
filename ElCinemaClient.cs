@@ -22,3 +22,5 @@ namespace ElCinemaPlugin
         }
     }
 }
+
+// This is a comment to trigger the workflow
